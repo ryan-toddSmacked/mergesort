@@ -1,2 +1,2 @@
 # mergesort
-ADT merge sort
+ADT merge sort in C.
